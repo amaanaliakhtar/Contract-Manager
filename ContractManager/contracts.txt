@@ -1,0 +1,25 @@
+25-Nov-2020 	 2 	 1 	 1 	 N 	 AA123C 	 455 	 A Akhtar
+25-Nov-2020 	 1 	 3 	 24 	 Y 	 BB619B 	 932 	 J Wicke
+25-Nov-2020 	 3 	 3 	 12 	 Y 	 RA263N 	 1366 	 D Sulayman
+29-Nov-2020 	 2 	 2 	 12 	 Y 	 GG420N 	 929 	 G Wagon
+29-Nov-2020 	 3 	 3 	 24 	 Y 	 JF101B 	 1294 	 JF Kennedy
+30-Nov-2020 	 3 	 4 	 24 	 Y 	 DV762B 	 2070 	 D Vader
+01-Dec-2020 	 2 	 1 	 12 	 Y 	 CE456N 	 710 	 C Eastwood
+01-Dec-2020 	 2 	 3 	 24 	 N 	 MY892C 	 735 	 M Yoda
+01-Dec-2020 	 3 	 4 	 24 	 Y 	 EB353B 	 2070 	 B Ertugrul
+10-Dec-2020 	 2 	 2 	 12 	 Y 	 AB234C 	 684 	 A Bakr
+14-Dec-2020 	 1 	 2 	 12 	 Y 	 BA132B 	 724 	 B Aller
+14-Dec-2020 	 3 	 4 	 24 	 Y 	 KF463N 	 2070 	 K Felix
+17-Dec-2020 	 3 	 3 	 24 	 Y 	 MT999B 	 1294 	 M Tyson
+17-Dec-2020 	 3 	 4 	 18 	 N 	 MI404C 	 1400 	 M Ali
+17-Dec-2020 	 2 	 2 	 12 	 Y 	 KN123N 	 929 	 K Nurmagomedov
+03-Jan-2021 	 2 	 2 	 18 	 Y 	 AC123B 	 880 	 A Ezio
+03-Jan-2021 	 2 	 2 	 12 	 Y 	 AC111C 	 684 	 Altair
+06-Jan-2021 	 3 	 4 	 1 	 N 	 BB999N 	 2000 	 M Lowrey
+06-Jan-2021 	 1 	 3 	 18 	 Y 	 QA269B 	 932 	 Q Akhtar
+06-Jan-2021 	 1 	 1 	 1 	 N 	 DJ745N 	 500 	 D Jango
+07-Jan-2021 	 2 	 2 	 24 	 Y 	 MM345C 	 684 	 M Menk
+08-Jan-2021 	 3 	 4 	 24 	 N 	 JC678B 	 1800 	 J Cambridge
+08-Jan-2021 	 2 	 3 	 12 	 N 	 JJ321N 	 998 	 J Olatunji
+09-Jan-2021 	 3 	 2 	 12 	 Y 	 JP678B 	 1087 	 JB Peterson
+10-Jan-2021 	 2 	 3 	 12 	 Y 	 AA123C 	 0 	 A Akhtar
